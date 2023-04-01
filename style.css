@@ -1,0 +1,86 @@
+ *{
+                margin :0;
+                padding: 0;
+            }
+            body{
+
+                background-color: bisque;
+            }
+            .head{
+                background-color: indigo;
+                padding: 3%;
+                white-space: normal;
+                width: 100%;
+            }
+            .one{
+                background-color: indigo;
+                display: flex;
+                padding: 0.5%;
+                white-space: normal;
+                text-indent: 2em;
+                width: 100%;
+                
+            }
+            .second{
+                background-color: indigo;
+                width: 100%;
+                padding: 20px;
+                display: inline-block;
+            }
+            .santhosh{
+                display: grid; 
+                grid-template-columns: 1fr 1fr; 
+                grid-gap: 20px; 
+                border: 1px ;
+                width: 100%;
+            }
+            #gmail{
+                width: 15em;
+                height: 3em;
+                background-color:rgb(66,133,244) ;
+                color: white;
+                margin-right: 2em;
+            }
+            #email{
+                margin-left: 2em;
+                width: 15em;
+                height: 3em;
+
+            }
+            #sales{
+                width: 15em;
+                height:3em;
+                background-color: indigo;
+                color: white;
+                border: 2px solid white;
+            }
+            #free{
+                width:15em;
+                height:3em;
+                color: indigo;
+            }
+            .cimg{
+                display: flex;
+                text-indent: 3em;
+                margin-left: 15em;
+                margin-right: 15em;
+            }
+            .main{
+                background-color: bisque;
+                width: 100%;
+            }
+            .vidm{
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                grid-gap: 20px;
+            }
+            .vid1{
+                padding: 3%;
+                white-space: normal;
+                width: 100%;
+            }
+            .vidt1{
+                width: 100%;
+                padding: 20px;
+                display: inline-block;
+            }
